@@ -1,7 +1,0 @@
-Chapter 1
-
-There is sometihing new to report in this file that I need to commit.
-
-More in the chapter 1
-
-
